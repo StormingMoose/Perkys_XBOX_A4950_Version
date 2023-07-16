@@ -1,5 +1,5 @@
 # Perkys_XBOX_A4950_Version
-Perky Robots EPS32 controlled by XBOX over wifi.
+Perky Robots EPS32 controlled by XBOX controller over wifi.
 
 
 Code for Perky's robot head's transportation with a two motor 3 servo wheeled vehicle.
